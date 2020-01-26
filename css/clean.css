@@ -1,0 +1,136 @@
+.body {
+    background-color: brown;
+    margin: 0;
+}
+
+.top {
+    margin: 0;
+    position: relative;
+    background-color: brown;
+}
+
+.banner {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.space {
+    height: 50px;
+}
+
+.menu {
+    height: 100px;
+    margin-top: -40px;
+    margin-left: 40px;
+    margin-right: 40px;    
+    background-color: chocolate;
+    padding-top: 1px;
+    position: relative;
+    font-family: Courier New;
+}
+
+.menu2 {
+    height: 125x;
+    margin-top: -30px;
+    margin-left: 40px;
+    margin-right: 40px;    
+    background-color: chocolate;
+    position: relative;
+    font-family: Courier New;
+}
+
+.menu3 {
+    height: 405px;
+    margin-top: -50px;
+    margin-left: 40px;
+    margin-right: 40px;    
+    background-color: chocolate;
+    position: relative;
+    font-size: 22px;
+    padding-top: 1px;
+    font-family: Courier New;
+}
+
+.menu4 {
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 40px;
+    margin-right: 40px;    
+    background-color: chocolate;
+    position: relative;
+    font-size: 22px;
+    padding-top: 1px;
+    font-family: Courier New;
+}
+
+.menu5 {
+    height: 250px;
+    margin-top: -80px;
+    margin-left: 40px;
+    margin-right: 40px;    
+    background-color: chocolate;
+    position: relative;
+    font-size: 22px;
+    padding-top: 1px;
+    font-family: Courier New;
+}
+
+.video {
+    text-align: center;
+}
+
+tr {
+    margin: 0;
+}
+
+td {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: fantasy;
+}
+
+a:link {
+    font-size: 22px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(255, 0, 0);
+}
+
+a:visited {
+    font-size: 22px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(255, 0, 0);
+}
+
+a:hover {
+    font-size: 22px;
+    color: brown;
+    text-decoration: none;
+}
+
+.tbl {
+
+    font-size: 22px;    
+    position: relative;
+}
+
+q {
+    font-size: 20px;
+    
+}
+
+p {
+    color: #eeff00;
+    background-color: #000000;
+    font-family: sans-serif;
+    font-style: oblique;
+    text-align: right;
+    margin: 0;
+}
+
+hr {
+    margin: 0;
+    border-top: 25px dashed brown
+}
